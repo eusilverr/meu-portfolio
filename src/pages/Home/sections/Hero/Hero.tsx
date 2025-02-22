@@ -45,7 +45,7 @@ const Hero = () => {
                     </Grid>
                     <Grid item xs={12} md={7}>
                         <Typography color="primary.contrastText" variant="h1" textAlign="center" pb={2}>
-                            William Cardoso
+                            William Cardos
                         </Typography>
                         <Typography color="primary.contrastText" variant="h2" textAlign="center">
                             Desenvolvedor full-stack
