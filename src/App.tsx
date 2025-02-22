@@ -7,5 +7,6 @@ const App = () => {
     </>
   );
 }
+// Teste de deploy automático no Netlify
 
 export default App;
