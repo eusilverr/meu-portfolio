@@ -61,9 +61,9 @@ const Hero = () => {
                             <Grid item xs={12} md={4} display="flex" justifyContent="center">
                                 {/* Contact me button */}
                                 <StyledButton href="https://mail.google.com/mail/?view=cm&fs=1&to=williamcardoso797@gmail.com&su=Contato%20via%20Website&body=Olá%2C%20gostaria%20de%20entrar%20em%20contato.">
-    <MailOutlineIcon />
-    <Typography>Contact me</Typography>
-</StyledButton>
+                                    <MailOutlineIcon />
+                                    <Typography>Contact me</Typography>
+                                </StyledButton>
 
                             </Grid>
                         </Grid>
